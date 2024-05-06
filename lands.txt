@@ -1,0 +1,5 @@
+101, kathmandu,5,50000,rented
+102, nepalgunj,10,80000,available,
+103, birgunj,8,70000,available
+104, dhangadhi,12,90000,available
+105, mahendranagar,6,60000,available
