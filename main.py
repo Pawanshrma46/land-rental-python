@@ -26,7 +26,7 @@ def main():
         print("4. press 3 for Exit ")
 
         try:
-            choice = int(input("Enter your choice (1-4): "))
+            choice = int(input("Enter your choice (1/2/3/4): "))
         except ValueError:
             print("Invalid input. Please enter a number.")
             continue
